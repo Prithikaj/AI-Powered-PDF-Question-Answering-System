@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# PDF Question Answering with Gemini and Awesome UI
+# AI-Powered PDF Question Answering System
 
 Quick prototype to upload PDFs, extract text, and ask questions referencing the PDF. Uses FastAPI backend and a minimal Awesome-UI frontend.
 
