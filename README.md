@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF Question Answering with Gemini and Awesome UI
 
 Quick prototype to upload PDFs, extract text, and ask questions referencing the PDF. Uses FastAPI backend and a minimal Awesome-UI frontend.
@@ -31,3 +32,6 @@ Notes
 
 Security
 - Keep your API key secret. Do not commit `.env` to source control.
+=======
+# AI-Powered-PDF-Question-Answering-System
+>>>>>>> 15e6d82abfd260b2fc518ec4041afb41c856bd39
